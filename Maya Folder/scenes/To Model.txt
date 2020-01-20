@@ -4,3 +4,6 @@ Telephone
 Wall Clock
 Wooden Bucket
 Axe
+Chair
+Potted plant
+Door
